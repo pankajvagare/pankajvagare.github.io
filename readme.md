@@ -1,4 +1,4 @@
-770 JavaScript Questions:
+JavaScript Questions
 
 1. What are the primitive data types in JavaScript?
 2. Explain the differences between `==` and `===`.
