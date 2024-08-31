@@ -1,5 +1,4 @@
 
-Print "Hello, World!" to the console.
 Reverse a string.
 Find the maximum of three numbers.
 Check if a number is even or odd.
