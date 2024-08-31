@@ -1,4 +1,3 @@
-
 Reverse a string.
 Find the maximum of three numbers.
 Check if a number is even or odd.
@@ -34,7 +33,7 @@ Algorithms and Data Structures
 Implement quicksort.
 Implement mergesort.
 Implement heap sort.
-Find the maximum subarray sum (Kadane's algorithm).
+Find the maximum subarray sum (Kadane’s algorithm).
 Find the longest common subsequence between two strings.
 Implement a hash map from scratch.
 Solve the knapsack problem using dynamic programming.
@@ -43,7 +42,7 @@ Implement a trie (prefix tree) for string storage.
 Determine if a binary tree is balanced.
 String Manipulation
 Count the frequency of each character in a string.
-Replace all spaces in a string with '%20'.
+Replace all spaces in a string with ‘%20’.
 Find the longest substring without repeating characters.
 Check if two strings are anagrams.
 Find all permutations of a string.
