@@ -1,4 +1,4 @@
-Basic Questions
+
 Print "Hello, World!" to the console.
 Reverse a string.
 Find the maximum of three numbers.
